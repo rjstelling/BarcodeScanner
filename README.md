@@ -235,3 +235,7 @@ We would love you to contribute to **BarcodeScanner**, check the [CONTRIBUTING](
 ## License
 
 **BarcodeScanner** is available under the MIT license. See the [LICENSE](https://github.com/hyperoslo/BarcodeScanner/blob/master/LICENSE.md) file for more info.
+
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
